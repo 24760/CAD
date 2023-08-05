@@ -1,0 +1,6 @@
+[submodule "இலவசகஉவ"]
+	path = இலவசகஉவ
+	url = https://github.com/247i/FreeCAD.git
+[submodule "விடுதலைகஉவ"]
+	path = விடுதலைகஉவ
+	url = https://github.com/247i/LibreCAD.git
